@@ -21,4 +21,4 @@ This website is ideal for users needing quick and reliable currency conversion f
 
 ## Live Demo
 
-You can view the live project [here](file:///D:/VS%20Code/Currency%20Convertor/index.html)
+You can view the live project [here](https://akshada77.github.io/Currency-Convertor/)
